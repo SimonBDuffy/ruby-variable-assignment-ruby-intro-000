@@ -1,2 +1,1 @@
-phrase = "Hello World"
-"Hello World" = "greeting"
+"greeting" = "Hello World"
